@@ -12,5 +12,10 @@ const codes = [
 ];
 
 function init() {
-  // your code here
+ const body = document.querySelector('body');
+ 
+ body.addEventListner(keydown, function(codes)) {
+   if 
+ }
+ alert('#sheReady')
 }
